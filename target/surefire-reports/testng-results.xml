@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="19" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-28T05:16:30Z" name="Surefire suite" finished-at="2022-05-28T05:16:39Z" duration-ms="9223">
+    <groups>
+    </groups>
+    <test started-at="2022-05-28T05:16:30Z" name="Surefire test" finished-at="2022-05-28T05:16:39Z" duration-ms="9223">
+      <class name="TestCase.TestCard">
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:TestCase.TestCard@293a5f75]" started-at="2022-05-28T05:16:34Z" name="startTest" finished-at="2022-05-28T05:16:34Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestCase.TestCard.create_card() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="basic_Details()[pri:0, instance:TestCase.TestCard@293a5f75]" started-at="2022-05-28T05:16:34Z" name="basic_Details" finished-at="2022-05-28T05:16:34Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basic_Details -->
+        <test-method signature="create_card()[pri:5, instance:TestCase.TestCard@293a5f75]" started-at="2022-05-28T05:16:34Z" name="create_card" finished-at="2022-05-28T05:16:35Z" duration-ms="607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_card -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:TestCase.TestCard@293a5f75]" started-at="2022-05-28T05:16:35Z" name="endTest" finished-at="2022-05-28T05:16:35Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="atestCaseResult(org.testng.ITestResult)[pri:0, instance:TestCase.TestCard@293a5f75]" started-at="2022-05-28T05:16:35Z" name="atestCaseResult" finished-at="2022-05-28T05:16:35Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=create_card status=SUCCESS method=TestCard.create_card()[pri:5, instance:TestCase.TestCard@293a5f75] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atestCaseResult -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:TestCase.TestCard@293a5f75]" started-at="2022-05-28T05:16:35Z" name="startTest" finished-at="2022-05-28T05:16:35Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestCase.TestCard.updateCard() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="basic_Details()[pri:0, instance:TestCase.TestCard@293a5f75]" started-at="2022-05-28T05:16:35Z" name="basic_Details" finished-at="2022-05-28T05:16:35Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basic_Details -->
+        <test-method signature="updateCard()[pri:6, instance:TestCase.TestCard@293a5f75]" started-at="2022-05-28T05:16:35Z" name="updateCard" finished-at="2022-05-28T05:16:36Z" duration-ms="587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateCard -->
+        <test-method is-config="true" signature="atestCaseResult(org.testng.ITestResult)[pri:0, instance:TestCase.TestCard@293a5f75]" started-at="2022-05-28T05:16:36Z" name="atestCaseResult" finished-at="2022-05-28T05:16:36Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=updateCard status=SUCCESS method=TestCard.updateCard()[pri:6, instance:TestCase.TestCard@293a5f75] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atestCaseResult -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:TestCase.TestCard@293a5f75]" started-at="2022-05-28T05:16:36Z" name="endTest" finished-at="2022-05-28T05:16:36Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:TestCase.TestCard@293a5f75]" started-at="2022-05-28T05:16:36Z" name="startTest" finished-at="2022-05-28T05:16:36Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestCase.TestCard.getCard() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="basic_Details()[pri:0, instance:TestCase.TestCard@293a5f75]" started-at="2022-05-28T05:16:36Z" name="basic_Details" finished-at="2022-05-28T05:16:36Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basic_Details -->
+        <test-method signature="getCard()[pri:7, instance:TestCase.TestCard@293a5f75]" started-at="2022-05-28T05:16:36Z" name="getCard" finished-at="2022-05-28T05:16:36Z" duration-ms="513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCard -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:TestCase.TestCard@293a5f75]" started-at="2022-05-28T05:16:36Z" name="endTest" finished-at="2022-05-28T05:16:36Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="atestCaseResult(org.testng.ITestResult)[pri:0, instance:TestCase.TestCard@293a5f75]" started-at="2022-05-28T05:16:36Z" name="atestCaseResult" finished-at="2022-05-28T05:16:36Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=getCard status=SUCCESS method=TestCard.getCard()[pri:7, instance:TestCase.TestCard@293a5f75] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atestCaseResult -->
+        <test-method is-config="true" signature="basic_Details()[pri:0, instance:TestCase.TestCard@293a5f75]" started-at="2022-05-28T05:16:36Z" name="basic_Details" finished-at="2022-05-28T05:16:36Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basic_Details -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:TestCase.TestCard@293a5f75]" started-at="2022-05-28T05:16:36Z" name="startTest" finished-at="2022-05-28T05:16:36Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestCase.TestCard.deleteLabel() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="deleteLabel()[pri:8, instance:TestCase.TestCard@293a5f75]" started-at="2022-05-28T05:16:36Z" name="deleteLabel" finished-at="2022-05-28T05:16:37Z" duration-ms="494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteLabel -->
+        <test-method is-config="true" signature="atestCaseResult(org.testng.ITestResult)[pri:0, instance:TestCase.TestCard@293a5f75]" started-at="2022-05-28T05:16:37Z" name="atestCaseResult" finished-at="2022-05-28T05:16:37Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=deleteLabel status=SUCCESS method=TestCard.deleteLabel()[pri:8, instance:TestCase.TestCard@293a5f75] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atestCaseResult -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:TestCase.TestCard@293a5f75]" started-at="2022-05-28T05:16:37Z" name="endTest" finished-at="2022-05-28T05:16:37Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="basic_Details()[pri:0, instance:TestCase.TestCard@293a5f75]" started-at="2022-05-28T05:16:37Z" name="basic_Details" finished-at="2022-05-28T05:16:37Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basic_Details -->
+        <test-method signature="deleteCard()[pri:9, instance:TestCase.TestCard@293a5f75]" started-at="2022-05-28T05:16:37Z" name="deleteCard" finished-at="2022-05-28T05:16:37Z" duration-ms="594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCard -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:TestCase.TestCard@293a5f75]" started-at="2022-05-28T05:16:37Z" name="startTest" finished-at="2022-05-28T05:16:37Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestCase.TestCard.deleteCard()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:TestCase.TestCard@293a5f75]" started-at="2022-05-28T05:16:37Z" name="endTest" finished-at="2022-05-28T05:16:37Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="atestCaseResult(org.testng.ITestResult)[pri:0, instance:TestCase.TestCard@293a5f75]" started-at="2022-05-28T05:16:37Z" name="atestCaseResult" finished-at="2022-05-28T05:16:37Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=deleteCard status=SUCCESS method=TestCard.deleteCard()[pri:9, instance:TestCase.TestCard@293a5f75] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atestCaseResult -->
+      </class> <!-- TestCase.TestCard -->
+      <class name="TestCase.TestBoard">
+        <test-method is-config="true" signature="basic_Details()[pri:0, instance:TestCase.TestBoard@60957c0f]" started-at="2022-05-28T05:16:30Z" name="basic_Details" finished-at="2022-05-28T05:16:31Z" duration-ms="486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basic_Details -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:TestCase.TestBoard@60957c0f]" started-at="2022-05-28T05:16:31Z" name="startTest" finished-at="2022-05-28T05:16:31Z" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestCase.TestBoard.create_board() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="create_board()[pri:1, instance:TestCase.TestBoard@60957c0f]" started-at="2022-05-28T05:16:31Z" name="create_board" finished-at="2022-05-28T05:16:33Z" duration-ms="1810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_board -->
+        <test-method is-config="true" signature="atestCaseResult(org.testng.ITestResult)[pri:0, instance:TestCase.TestBoard@60957c0f]" started-at="2022-05-28T05:16:33Z" name="atestCaseResult" finished-at="2022-05-28T05:16:33Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=create_board status=SUCCESS method=TestBoard.create_board()[pri:1, instance:TestCase.TestBoard@60957c0f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atestCaseResult -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:TestCase.TestBoard@60957c0f]" started-at="2022-05-28T05:16:33Z" name="endTest" finished-at="2022-05-28T05:16:33Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:TestCase.TestBoard@60957c0f]" started-at="2022-05-28T05:16:33Z" name="startTest" finished-at="2022-05-28T05:16:33Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestCase.TestBoard.update_board()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="basic_Details()[pri:0, instance:TestCase.TestBoard@60957c0f]" started-at="2022-05-28T05:16:33Z" name="basic_Details" finished-at="2022-05-28T05:16:33Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basic_Details -->
+        <test-method signature="update_board()[pri:2, instance:TestCase.TestBoard@60957c0f]" started-at="2022-05-28T05:16:33Z" name="update_board" finished-at="2022-05-28T05:16:33Z" duration-ms="588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update_board -->
+        <test-method is-config="true" signature="atestCaseResult(org.testng.ITestResult)[pri:0, instance:TestCase.TestBoard@60957c0f]" started-at="2022-05-28T05:16:33Z" name="atestCaseResult" finished-at="2022-05-28T05:16:33Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=update_board status=SUCCESS method=TestBoard.update_board()[pri:2, instance:TestCase.TestBoard@60957c0f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atestCaseResult -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:TestCase.TestBoard@60957c0f]" started-at="2022-05-28T05:16:33Z" name="endTest" finished-at="2022-05-28T05:16:33Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="basic_Details()[pri:0, instance:TestCase.TestBoard@60957c0f]" started-at="2022-05-28T05:16:33Z" name="basic_Details" finished-at="2022-05-28T05:16:33Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basic_Details -->
+        <test-method signature="get_board()[pri:3, instance:TestCase.TestBoard@60957c0f]" started-at="2022-05-28T05:16:33Z" name="get_board" finished-at="2022-05-28T05:16:34Z" duration-ms="541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_board -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:TestCase.TestBoard@60957c0f]" started-at="2022-05-28T05:16:33Z" name="startTest" finished-at="2022-05-28T05:16:33Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestCase.TestBoard.get_board()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:TestCase.TestBoard@60957c0f]" started-at="2022-05-28T05:16:34Z" name="endTest" finished-at="2022-05-28T05:16:34Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="atestCaseResult(org.testng.ITestResult)[pri:0, instance:TestCase.TestBoard@60957c0f]" started-at="2022-05-28T05:16:34Z" name="atestCaseResult" finished-at="2022-05-28T05:16:34Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=get_board status=SUCCESS method=TestBoard.get_board()[pri:3, instance:TestCase.TestBoard@60957c0f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atestCaseResult -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:TestCase.TestBoard@60957c0f]" started-at="2022-05-28T05:16:34Z" name="startTest" finished-at="2022-05-28T05:16:34Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestCase.TestBoard.delete_board()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="basic_Details()[pri:0, instance:TestCase.TestBoard@60957c0f]" started-at="2022-05-28T05:16:34Z" name="basic_Details" finished-at="2022-05-28T05:16:34Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basic_Details -->
+        <test-method signature="delete_board()[pri:4, instance:TestCase.TestBoard@60957c0f]" started-at="2022-05-28T05:16:34Z" name="delete_board" finished-at="2022-05-28T05:16:34Z" duration-ms="753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_board -->
+        <test-method is-config="true" signature="atestCaseResult(org.testng.ITestResult)[pri:0, instance:TestCase.TestBoard@60957c0f]" started-at="2022-05-28T05:16:34Z" name="atestCaseResult" finished-at="2022-05-28T05:16:34Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=delete_board status=SUCCESS method=TestBoard.delete_board()[pri:4, instance:TestCase.TestBoard@60957c0f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atestCaseResult -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:TestCase.TestBoard@60957c0f]" started-at="2022-05-28T05:16:34Z" name="endTest" finished-at="2022-05-28T05:16:34Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- TestCase.TestBoard -->
+      <class name="TestCase.TestList">
+        <test-method is-config="true" signature="basic_Details()[pri:0, instance:TestCase.TestList@fcb4004]" started-at="2022-05-28T05:16:37Z" name="basic_Details" finished-at="2022-05-28T05:16:37Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basic_Details -->
+        <test-method signature="create_list()[pri:10, instance:TestCase.TestList@fcb4004]" started-at="2022-05-28T05:16:37Z" name="create_list" finished-at="2022-05-28T05:16:38Z" duration-ms="596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_list -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:TestCase.TestList@fcb4004]" started-at="2022-05-28T05:16:37Z" name="startTest" finished-at="2022-05-28T05:16:37Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestCase.TestList.create_list() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="atestCaseResult(org.testng.ITestResult)[pri:0, instance:TestCase.TestList@fcb4004]" started-at="2022-05-28T05:16:38Z" name="atestCaseResult" finished-at="2022-05-28T05:16:38Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=create_list status=SUCCESS method=TestList.create_list()[pri:10, instance:TestCase.TestList@fcb4004] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atestCaseResult -->
+        <test-method is-config="true" signature="basic_Details()[pri:0, instance:TestCase.TestList@fcb4004]" started-at="2022-05-28T05:16:38Z" name="basic_Details" finished-at="2022-05-28T05:16:38Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basic_Details -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:TestCase.TestList@fcb4004]" started-at="2022-05-28T05:16:38Z" name="endTest" finished-at="2022-05-28T05:16:38Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method signature="updateList()[pri:11, instance:TestCase.TestList@fcb4004]" started-at="2022-05-28T05:16:38Z" name="updateList" finished-at="2022-05-28T05:16:38Z" duration-ms="561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateList -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:TestCase.TestList@fcb4004]" started-at="2022-05-28T05:16:38Z" name="startTest" finished-at="2022-05-28T05:16:38Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestCase.TestList.updateList() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="atestCaseResult(org.testng.ITestResult)[pri:0, instance:TestCase.TestList@fcb4004]" started-at="2022-05-28T05:16:38Z" name="atestCaseResult" finished-at="2022-05-28T05:16:38Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=updateList status=SUCCESS method=TestList.updateList()[pri:11, instance:TestCase.TestList@fcb4004] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atestCaseResult -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:TestCase.TestList@fcb4004]" started-at="2022-05-28T05:16:38Z" name="endTest" finished-at="2022-05-28T05:16:38Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method signature="getCard()[pri:12, instance:TestCase.TestList@fcb4004]" started-at="2022-05-28T05:16:38Z" name="getCard" finished-at="2022-05-28T05:16:39Z" duration-ms="522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCard -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:TestCase.TestList@fcb4004]" started-at="2022-05-28T05:16:38Z" name="startTest" finished-at="2022-05-28T05:16:38Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestCase.TestList.getCard() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="basic_Details()[pri:0, instance:TestCase.TestList@fcb4004]" started-at="2022-05-28T05:16:38Z" name="basic_Details" finished-at="2022-05-28T05:16:38Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basic_Details -->
+        <test-method is-config="true" signature="basic_Details()[pri:0, instance:TestCase.TestList@fcb4004]" started-at="2022-05-28T05:16:39Z" name="basic_Details" finished-at="2022-05-28T05:16:39Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basic_Details -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:TestCase.TestList@fcb4004]" started-at="2022-05-28T05:16:39Z" name="startTest" finished-at="2022-05-28T05:16:39Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestCase.TestList.archiveList()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:TestCase.TestList@fcb4004]" started-at="2022-05-28T05:16:39Z" name="endTest" finished-at="2022-05-28T05:16:39Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="atestCaseResult(org.testng.ITestResult)[pri:0, instance:TestCase.TestList@fcb4004]" started-at="2022-05-28T05:16:39Z" name="atestCaseResult" finished-at="2022-05-28T05:16:39Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=getCard status=SUCCESS method=TestList.getCard()[pri:12, instance:TestCase.TestList@fcb4004] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atestCaseResult -->
+        <test-method signature="archiveList()[pri:13, instance:TestCase.TestList@fcb4004]" started-at="2022-05-28T05:16:39Z" name="archiveList" finished-at="2022-05-28T05:16:39Z" duration-ms="535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- archiveList -->
+        <test-method is-config="true" signature="atestCaseResult(org.testng.ITestResult)[pri:0, instance:TestCase.TestList@fcb4004]" started-at="2022-05-28T05:16:39Z" name="atestCaseResult" finished-at="2022-05-28T05:16:39Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=archiveList status=SUCCESS method=TestList.archiveList()[pri:13, instance:TestCase.TestList@fcb4004] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atestCaseResult -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:TestCase.TestList@fcb4004]" started-at="2022-05-28T05:16:39Z" name="endTest" finished-at="2022-05-28T05:16:39Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- TestCase.TestList -->
+      <class name="BaseTest.BaseTest">
+        <test-method is-config="true" signature="setReports()[pri:0, instance:BaseTest.BaseTest@7e5d9a50]" started-at="2022-05-28T05:16:30Z" name="setReports" finished-at="2022-05-28T05:16:30Z" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setReports -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:BaseTest.BaseTest@7e5d9a50]" started-at="2022-05-28T05:16:40Z" name="endReport" finished-at="2022-05-28T05:16:40Z" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- BaseTest.BaseTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

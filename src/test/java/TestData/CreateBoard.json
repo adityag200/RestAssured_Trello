@@ -1,0 +1,23 @@
+{
+  "id": "5612e4f91b25c15e873722b8",
+  "name": "Employee Manual",
+  "desc": "",
+  "closed": false,
+  "memberships": [
+    {
+      "id": "5612e4fb1b25c15e8737234b",
+      "idMember": "53baf533e697a982248cd73f",
+      "memberType": "admin",
+      "unconfirmed": false
+    },
+    {
+      "id": "5925e4fc63096260c349cbd4",
+      "idMember": "53cd82cd7ed746db278c4f32",
+      "memberType": "normal",
+      "unconfirmed": false
+    }
+  ],
+  "url": "https://trello.com/b/HbTEX5hb/employee-manual",
+  "shortLink": "HbTEX5hb",
+  "shortUrl": "https://trello.com/b/HbTEX5hb"
+}
